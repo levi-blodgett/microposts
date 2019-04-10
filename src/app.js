@@ -35,3 +35,6 @@ function submitPost() {
     })
     .catch(err => console.log(err));
 }
+
+// How to run json server
+// npm run json:server
