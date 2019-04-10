@@ -1,3 +1,5 @@
+// Only upload the index, assets, and build files to the server in a real production environment
+
 import { http } from './http';
 import { ui } from './ui';
 
