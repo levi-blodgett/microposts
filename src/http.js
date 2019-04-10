@@ -3,7 +3,7 @@
 * Library for making HTTP requests
 * 
 * @version 3.0.0
-* @author Levi Blodgett
+* @author Brad Traversy
 * @license MIT
 **/
 
